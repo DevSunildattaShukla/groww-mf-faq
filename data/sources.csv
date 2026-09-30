@@ -1,21 +1,21 @@
-url,domain,type
-https://growwmf.in/,growwmf.in,AMC Home
-https://growwmf.in/mutual-funds,growwmf.in,Scheme List
-https://growwmf.in/mutual-fund/groww-large-cap-fund,growwmf.in,Scheme Page
-https://growwmf.in/mutual-fund/groww-elss-tax-saver-fund,growwmf.in,Scheme Page
-https://growwmf.in/mutual-fund/groww-value-fund,growwmf.in,Scheme Page
-https://growwmf.in/statutory-disclosures,growwmf.in,Disclosure
-https://www.amfiindia.com/,amfiindia.com,AMFI
-https://www.amfiindia.com/nav-history,amfiindia.com,NAV History
-https://www.sebi.gov.in/,sebi.gov.in,Regulator
-https://www.sebi.gov.in/filings/mutual-funds.html,sebi.gov.in,SEBI Filings
-https://www.camsonline.com/,camsonline.com,RTA
-https://www.kfintech.com/,kfintech.com,RTA
-https://growwmf.in/downloads/sid,growwmf.in,SID
-https://growwmf.in/downloads/sai,growwmf.in,SAI
-https://growwmf.in/downloads/kim,growwmf.in,KIM
-https://growwmf.in/downloads/factsheet,growwmf.in,Factsheet
-https://growwmf.in/downloads/portfolio,growwmf.in,Portfolio
-https://growwmf.in/downloads/addendum,growwmf.in,Addendum
-https://growwmf.in/about-us,growwmf.in,AMC Info
-https://growwmf.in/contact-us,growwmf.in,Contact
+title,url,type
+Groww Large Cap Fund Factsheet,https://growwmf.in/funds/groww-large-cap-fund,factsheet
+Groww Flexi Cap Fund Factsheet,https://growwmf.in/funds/groww-flexi-cap-fund,factsheet
+Groww ELSS Tax Saver Fund Factsheet,https://growwmf.in/funds/groww-elss-tax-saver-fund,factsheet
+Groww Nifty Total Market Index Fund Factsheet,https://growwmf.in/funds/groww-nifty-total-market-index-fund,factsheet
+Groww Short Duration Fund Factsheet,https://growwmf.in/funds/groww-short-duration-fund,factsheet
+Groww Mutual Fund KIM,https://growwmf.in/downloads/kim,KIM
+Groww Mutual Fund SID - Equity Funds,https://growwmf.in/downloads/sid,SID
+Groww MF Scheme Documents Page,https://growwmf.in/downloads,downloads
+Groww MF Expense Ratio Disclosures,https://growwmf.in/disclosures/total-expense-ratio,expense
+Groww MF Exit Load Details,https://growwmf.in/faqs,faq
+Groww MF Minimum SIP Information,https://growwmf.in/faqs,faq
+Groww MF Riskometer Explanation,https://www.amfiindia.com/investor-corner/knowledge-center/riskometer.html,AMFI
+AMFI ELSS Definition & Lock-in,https://www.amfiindia.com/investor-corner/knowledge-center/elss.html,AMFI
+SEBI Mutual Fund Regulations - Riskometer,https://www.sebi.gov.in/legal/circulars/jan-2020/circular-on-product-labelling-in-mutual-funds-riskometer_45648.html,SEBI
+SEBI Mutual Fund KIM SID Guidelines,https://www.sebi.gov.in/sebi_data/commondoc/mf_guidelines.pdf,SEBI
+AMFI NAV Definition,https://www.amfiindia.com/investor-corner/knowledge-center/what-is-nav.html,AMFI
+AMFI Expense Ratio Definition,https://www.amfiindia.com/investor-corner/knowledge-center/what-is-expense-ratio.html,AMFI
+AMFI Exit Load Definition,https://www.amfiindia.com/investor-corner/knowledge-center/what-is-exit-load.html,AMFI
+Groww MF Statement Download Guide,https://growwmf.in/downloads,guide
+AMFI Benchmark Definition,https://www.amfiindia.com/investor-corner/knowledge-center/what-is-benchmark.html,AMFI

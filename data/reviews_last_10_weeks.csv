@@ -1,0 +1,31 @@
+date,review_text,rating,source
+2026-08-01,"Redeemed Groww Nifty Index fund after 20 days and 1% was deducted as exit load. Why was this not shown?",2,PlayStore
+2026-08-03,"Why 0.005% extra cut on my 10k SIP? Shows 9999.5 units only. Is Groww charging extra?",2,PlayStore
+2026-08-05,"SIP failed but mandate shows active. Very confusing flow",3,AppStore
+2026-08-08,"I thought ELSS lock-in over after 3 years but exit load still applied? Need clarity",2,PlayStore
+2026-08-10,"NAV not updated same day, my order executed next day evening. Lost profit",3,PlayStore
+2026-08-12,"Exit load charged even though I held for 25 days. Your FAQ says 30 days. Cheating",1,Trustpilot
+2026-08-15,"Good app but stamp duty confusion. Please show it separately in order preview",4,PlayStore
+2026-08-17,"Trying to cancel SIP but pause option only shows. Where is cancel?",2,AppStore
+2026-08-20,"KYC failed 3 times, no reason given. Mandate rejected",1,PlayStore
+2026-08-22,"Liquid fund redeemed in 3 days, exit load 0.007% charged. Why?",3,PlayStore
+2026-08-25,"Mutual fund redemption amount less than expected due to exit load. Not transparent",2,PlayStore
+2026-08-27,"SIP amount deducted but units not allotted for 2 days. Is this stamp duty?",3,PlayStore
+2026-08-29,"App is smooth but fee structure not clear. Need a simple explainer for exit load",4,PlayStore
+2026-09-01,"Why stamp duty on SIP? Government tax or Groww fee? Explain clearly",2,PlayStore
+2026-09-03,"Exit load 1% for 15 days holding is too high. Should be shown before redeem",1,AppStore
+2026-09-05,"My ELSS fund shows 0 exit load after 3 years but still charged 0.5%? Bug?",2,PlayStore
+2026-09-08,"Order placed at 2 PM but NAV of next day applied. Delay issue",3,PlayStore
+2026-09-10,"Cannot modify SIP date. Need to cancel and recreate. Bad UX",3,PlayStore
+2026-09-12,"Stamp duty of Rs 5 on 10k is small but why hidden? Show upfront",4,PlayStore
+2026-09-15,"Redeemed after 31 days still 1% cut. Your 30 day rule not working",1,PlayStore
+2026-09-17,"Good support but repeated confusion on exit load vs expense ratio",4,Trustpilot
+2026-09-20,"SIP mandate active but auto-debit failed. No notification",2,PlayStore
+2026-09-22,"Liquid fund exit load structure 7 days is not shown in app. Add tooltip",3,PlayStore
+2026-09-25,"Why is exit load deducted from units and not shown as fee? Confusing",3,PlayStore
+2026-09-28,"KYC done but still cannot invest in overseas fund. Limit error",2,PlayStore
+2026-10-01,"Best app for MF but please add fee explainer video in redeem screen",5,PlayStore
+2026-10-03,"Stamp duty charged on every SIP installment? I thought one time only",2,PlayStore
+2026-10-04,"Exit load charged unexpectedly. Need clear email on redemption",2,AppStore
+2026-10-05,"NAV delay + exit load confusion making me switch to AMC app",2,PlayStore
+2026-10-06,"SIP cancellation takes 2 days. Need instant cancel option",3,PlayStore
